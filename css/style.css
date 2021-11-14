@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  background: url('https://scontent.fcgh2-1.fna.fbcdn.net/v/t39.30808-6/244206017_1589160684768525_3567374871466058690_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=-u-KP2LOQVUAX8puiZ5&tn=zSFFObyE86PeeKNa&_nc_ht=scontent.fcgh2-1.fna&oh=94d5266074f467ca524dcfca33e22109&oe=619461E1') cover;
+}
+
+.text{
+  position: fixed;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  left: 50%;
+  top: 10px;
+  text-shadow: 0 2px 5px rgba(0,0,0, .5);
+  transform: translate(-50%);
+
+}
